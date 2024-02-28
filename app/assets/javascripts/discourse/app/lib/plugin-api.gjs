@@ -2494,14 +2494,6 @@ class PluginApi {
 
 
 
-
-
-
-
-
-
-
-
    */
   addAdminSidebarSectionLink(sectionName, link) {
     addAdminSidebarSectionLink(sectionName, link);
